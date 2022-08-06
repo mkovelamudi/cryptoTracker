@@ -1,0 +1,81 @@
+.reward{
+    width: 100vw;
+    height: auto;
+    top: 105px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.reward > h2{
+    background-color: seashell;
+}
+
+.card_class{
+    margin: 20%;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 6px 18px -9px rgba(0, 0, 0, 0.75);
+    transition: transform 100ms ease-in;
+    cursor: pointer;
+    background: seashell;
+    font-family: 'Andada Pro', serif;
+    font-family: 'Raleway', sans-serif;
+    height: 25%;
+    top:30%;
+    position: center;
+}
+
+.card_class > h2{
+    margin-left: 8%;
+
+}
+.card_class > span{
+    margin-left: 50%;
+    font-size: 30px;
+}
+
+#recent_transactions {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    text-align: center;
+  }
+
+#recent_transactions td, #customers th {
+border: 1px solid #ddd;
+padding: 8px;
+text-align: center;
+font-weight: bold;
+}
+
+#recent_transactions tr:nth-child(even){background-color: #f2f2f2;}
+
+#recent_transactions tr:hover {background-color: #ddd;}
+
+#recent_transactions th {
+padding-top: 12px;
+padding-bottom: 12px;
+text-align: center;
+background-color: #015185;
+color: white;
+}
+
+#header {
+    text-align: center;
+    padding-top: 20px;
+    margin-right: 25%;
+    font-size: 30px;
+}
+
+.card_class{
+    margin-top: 10%;
+    margin-right: 40%;
+    margin-left: 25%;
+}
+
+
+.card_header{
+    text-align: center;
+
+}
