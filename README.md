@@ -25,4 +25,22 @@ Our main focus is on the new crypto investors who are new to the world of crypto
 ![image](https://user-images.githubusercontent.com/99615170/168870246-2983a8eb-c09a-4771-a1bf-9f9e0d46d356.png)
 
 
+### Home Page
+![image](https://user-images.githubusercontent.com/99615170/183263517-ec884771-62c1-41f5-8afe-a35e65ddefbc.png)
+
+
+### Cryptocurrency Page
+![image](https://user-images.githubusercontent.com/99615170/183263538-a028e09f-403b-4196-87eb-94a29d176a89.png)
+
+### News Page
+![image](https://user-images.githubusercontent.com/99615170/183263560-f95e3d99-8843-46e4-82e3-29345806bc23.png)
+
+### Prediction Page with Google Auth login
+![image](https://user-images.githubusercontent.com/99615170/183263586-b68e0d04-d560-4b65-b538-9579a1c10e63.png)
+
+### Prediction page after logging in 
+![image](https://user-images.githubusercontent.com/99615170/183263614-b7637033-a07f-409f-9544-8703b007059e.png)
+
+### Wallet Page
+![image](https://user-images.githubusercontent.com/99615170/183263666-d27fe6bd-1f09-48fa-a9fd-96917d374cbd.png)
 
