@@ -1,6 +1,3 @@
-# Group 12 - CryptoTracker
-
-## Group 12:- Shreyansh Upadhyay, Gajam Anurag, Manish Kovelamudi, Abhiram Yenugadhati
 
 # Cryptocurrency Market Tracker
 
